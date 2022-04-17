@@ -1,0 +1,17 @@
+{
+  "name": "secrets---starting-code",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SKP",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "mongoose": "^6.3.0",
+    "mongoose-encryption": "^2.1.2"
+  }
+}
